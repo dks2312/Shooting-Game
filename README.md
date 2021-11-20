@@ -1,4 +1,4 @@
-# Unity-GitHub-for-learning
+# Shooting_Game
 
 게임 설명 <br>
 움직이는 3개의 과녘을 총을 쏴 명중시켜 쓰러트리면 끝나게 됩니다 <br>
